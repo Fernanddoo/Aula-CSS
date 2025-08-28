@@ -8,11 +8,11 @@ Com o CSS, você pode controlar cores, fontes, espaçamentos, tamanhos, e muito 
 
 A sintaxe do CSS é composta por três partes principais: o seletor, a propriedade e o valor.
 
-'''css
+```css
 seletor {
     propriedade: valor;
 }
-'''
+```
 
 - Seletor: Aponta para o elemento HTML que você deseja estilizar. Pode ser uma tag, uma classe, ou um ID.
 
@@ -26,25 +26,25 @@ Existem 3 maneiras para adicionar o CSS em um HTML:
 
 1. CSS Externo:
 
-'''html
+```html
 <link rel="stylesheet" href="style.css">
-'''
+```
 
 2. CSS Interno:
 
-'''html
+```html
 <style>
   p {
     color: green;
   }
 </style>
-'''
+```
 
 3. CSS Inline:
 
-'''html
+```html
 <h1 style="color: red;">Meu Título</h1>
-'''
+```
 
 ## Quais os estilos mais comuns e utilizados no CSS??
 
@@ -80,7 +80,7 @@ Existem 3 maneiras para adicionar o CSS em um HTML:
 
 index.html:
 
-'''html
+```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -97,11 +97,11 @@ index.html:
     </div>
 </body>
 </html>
-'''
+```
 
 style.css:
 
-'''css
+```css
 body {
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
@@ -135,7 +135,7 @@ a {
     text-decoration: none;
     border-radius: 5px;
 }
-'''
+```
 
 ## Flexbox e Grid
 
