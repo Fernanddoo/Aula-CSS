@@ -206,4 +206,4 @@ Estamos criando 3 colunas de tamanho igual que ocupam todo o espaço disponível
 
 ## Ideia para praticar:
 
-Criar uma página com html e css e simular um curículo profissional
+Criar uma página com html e css e simular um currículo profissional
