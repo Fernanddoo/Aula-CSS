@@ -1,4 +1,4 @@
-# CSS
+# CSS: Estilizando a Web
 
 O CSS, ou Cascading Style Sheets (Folhas de Estilo em Cascata), é a linguagem que usamos para dar estilo, cor, e vida às nossas páginas da web. Enquanto o HTML estrutura o conteúdo, o CSS cuida da aparência.
 
