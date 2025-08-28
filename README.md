@@ -79,6 +79,7 @@ Existem 3 maneiras para adicionar o CSS em um HTML:
 ## Exemplo prático
 
 index.html:
+
 '''html
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -99,6 +100,7 @@ index.html:
 '''
 
 style.css:
+
 '''css
 body {
     background-color: #f4f4f4;
