@@ -201,4 +201,5 @@ Estamos criando 3 colunas de tamanho igual que ocupam todo o espaço disponível
 ## Vamos jogar e aprender mais??
 
 [Flexbox Froggy](https://flexboxfroggy.com/#pt-br)
-[Flexbox Zombies](https://mastery.games/flexboxzombies) - Precisa de conta!!!
+
+[Flexbox Zombies](https://mastery.games/flexboxzombies) 
