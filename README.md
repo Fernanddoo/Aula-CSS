@@ -204,6 +204,12 @@ Estamos criando 3 colunas de tamanho igual que ocupam todo o espaço disponível
 
 [Flexbox Zombies](https://mastery.games/flexboxzombies) 
 
+## E para praticar sem VSCode
+
+Ferramenta disponível em:
+
+[W3School](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)
+
 ## Ideia para praticar:
 
 Criar uma página com html e css e simular um currículo profissional
