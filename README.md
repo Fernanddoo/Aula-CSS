@@ -180,7 +180,7 @@ Para ativar, basta adicionar grid ao contêiner:
 - **grid-template-rows:** Define o número de linhas do grid.
 - **gap:** Adiciona um espaçamento entre as linhas e colunas. Pode ser **column-gap** ou **row-gap** também.
 
-# Unidade fr:
+## Unidade fr:
 
 A unidade fr representa uma fração do espaço disponível no contêiner. Ao utilizar:
 
