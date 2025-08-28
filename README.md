@@ -14,7 +14,7 @@ seletor {
 }
 '''
 
-- Seletor: Aponta para o elemento HTML que você deseja estilizar. Pode ser uma tag (como <h1>, <p>), uma classe (.minha-classe), ou um ID (#meu-id).
+- Seletor: Aponta para o elemento HTML que você deseja estilizar. Pode ser uma tag, uma classe, ou um ID.
 
 - Propriedade: É o atributo de estilo que você deseja alterar, como color (cor do texto) ou font-size (tamanho da fonte).
 
