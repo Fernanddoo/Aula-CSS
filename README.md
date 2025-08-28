@@ -203,3 +203,7 @@ Estamos criando 3 colunas de tamanho igual que ocupam todo o espaço disponível
 [Flexbox Froggy](https://flexboxfroggy.com/#pt-br)
 
 [Flexbox Zombies](https://mastery.games/flexboxzombies) 
+
+## Ideia para praticar:
+
+Criar uma página com html e css e simular um curículo profissional
