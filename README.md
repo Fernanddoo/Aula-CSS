@@ -78,7 +78,7 @@ Existem 3 maneiras para adicionar o CSS em um HTML:
 
 ## Exemplo prático
 
-index.html:
+- index.html:
 
 ```html
 <!DOCTYPE html>
@@ -99,7 +99,7 @@ index.html:
 </html>
 ```
 
-style.css:
+- style.css:
 
 ```css
 body {
@@ -202,7 +202,7 @@ Estamos criando 3 colunas de tamanho igual que ocupam todo o espaço disponível
 
 1. Flexbox
 
-index.html:
+- index.html:
 
 ```html
 <nav class="menu">
@@ -213,7 +213,7 @@ index.html:
 </nav>
 ```
 
-style.css:
+- style.css:
 
 ```css
 .menu {
@@ -233,7 +233,7 @@ style.css:
 
 2. Grid
 
-index.html:
+- index.html:
 
 ```html
 <div class="galeria">
@@ -246,7 +246,7 @@ index.html:
 </div>
 ```
 
-style.css:
+- style.css:
 
 ```css
 .galeria {
