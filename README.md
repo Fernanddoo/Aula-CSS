@@ -280,3 +280,6 @@ Ferramenta disponível em:
 ## Ideia para praticar:
 
 Criar uma página com html e css e simular um currículo profissional
+
+
+### Repositório destinado ao projeto JET (Jovem e Tecnologia)
