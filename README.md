@@ -198,6 +198,73 @@ Estamos criando 3 colunas de tamanho igual que ocupam todo o espaço disponível
 - **Use flexbox:** Para componentes e alinhamentos em uma dimensão. Ótimo para menus, listas de itens, e para alinhar elementos dentro de um componente.
 - **Use grid:** Para o layout geral da página e para qualquer coisa que precise de alinhamento em duas dimensões (linhas e colunas ao mesmo tempo).
 
+## Exemplos de Flexbox e Grid:
+
+1. Flexbox
+
+index.html:
+
+```html
+<nav class="menu">
+    <a href="#">Início</a>
+    <a href="#">Sobre</a>
+    <a href="#">Serviços</a>
+    <a href="#">Contato</a>
+</nav>
+```
+
+style.css:
+
+```css
+.menu {
+    display: flex; /* Ativa o Flexbox */
+    justify-content: space-around; /* Distribui os links com espaço ao redor */
+    align-items: center; /* Centraliza verticalmente (se o menu tiver altura) */
+    background-color: #333;
+    padding: 15px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+```
+
+2. Grid
+
+index.html:
+
+```html
+<div class="galeria">
+    <div class="item">Foto 1</div>
+    <div class="item">Foto 2</div>
+    <div class="item">Foto 3</div>
+    <div class="item">Foto 4</div>
+    <div class="item">Foto 5</div>
+    <div class="item">Foto 6</div>
+</div>
+```
+
+style.css:
+
+```css
+.galeria {
+    display: grid;
+    /* Cria 3 colunas de larguras iguais */
+    grid-template-columns: 1fr 1fr 1fr; 
+    /* Adiciona um espaçamento de 10px entre os itens */
+    gap: 10px; 
+}
+
+.item {
+    background-color: #ddd;
+    padding: 40px 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+```
+
 ## Vamos jogar e aprender mais??
 
 [Flexbox Froggy](https://flexboxfroggy.com/#pt-br)
